@@ -1,0 +1,43 @@
+ Site:        lat     -85.00  long    180.00   alt      0.00 m
+ Elements (nT):  X -11489.98     Y   9038.53     Z -56215.10 
+                 F  58084.87  Decl    141.81   Inc    -75.42 
+
+ Site:        lat      85.00  long      0.00   alt      0.00 m
+ Elements (nT):  X   4299.58     Y      7.02     Z  55749.08 
+                 F  55914.64  Decl      0.09   Inc     85.59 
+
+ Site:        lat      85.00  long    116.40   alt      0.00 m
+ Elements (nT):  X  28149.16     Y  -3373.34     Z  46548.43 
+                 F  54502.39  Decl     -6.83   Inc     58.66 
+
+ Site:        lat      37.80  long   -122.40   alt      0.00 m
+ Elements (nT):  X  22271.61     Y   5685.59     Z  42496.19 
+                 F  48314.35  Decl     14.32   Inc     61.59 
+
+ Site:        lat      51.50  long     -0.13   alt      0.00 m
+ Elements (nT):  X  19513.26     Y   -241.62     Z  44814.76 
+                 F  48879.33  Decl     -0.71   Inc     66.47 
+
+ Site:        lat      30.00  long     31.20   alt      0.00 m
+ Elements (nT):  X  31272.19     Y   2841.33     Z  30123.66 
+                 F  43513.88  Decl      5.19   Inc     43.81 
+
+ Site:        lat      40.70  long    -74.00   alt      0.00 m
+ Elements (nT):  X  20512.93     Y  -4781.95     Z  46697.48 
+                 F  51227.94  Decl    -13.12   Inc     65.72 
+
+ Site:        lat     -23.50  long    -46.60   alt      0.00 m
+ Elements (nT):  X  16604.76     Y  -5766.60     Z -14384.17 
+                 F  22712.90  Decl    -19.15   Inc    -39.29 
+
+ Site:        lat     -33.90  long     18.42   alt      0.00 m
+ Elements (nT):  X   9202.13     Y  -4666.18     Z -23644.95 
+                 F  25797.99  Decl    -26.89   Inc    -66.43 
+
+ Site:        lat     -31.95  long    115.90   alt      0.00 m
+ Elements (nT):  X  23415.41     Y   -549.91     Z -53993.09 
+                 F  58854.38  Decl     -1.35   Inc    -66.55 
+
+ Site:        lat     -33.90  long    151.20   alt      0.00 m
+ Elements (nT):  X  24400.95     Y   5652.93     Z -50885.50 
+                 F  56715.92  Decl     13.04   Inc    -63.79 
